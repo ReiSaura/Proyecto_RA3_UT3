@@ -1,5 +1,5 @@
-# Vistas en Odoo 19 — {Nombre Apellidos}
-**Reto:** Reto_01_Vistas_Odoo19_{Nombre}_{Apellidos}  
+# Vistas en Odoo 19 — Raquel Saura Hernández
+**Reto:** Reto_01_Vistas_Odoo19_Raquel_Saura_Hernández 
 **Proyecto:** Proyecto_RA3_UT3  
 **Fecha:** 2025-11-21
 
