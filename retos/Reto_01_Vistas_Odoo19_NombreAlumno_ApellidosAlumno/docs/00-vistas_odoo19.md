@@ -64,17 +64,26 @@
 **Capturas**:  
 ![Lista Contactos](../assets/img/01-list/paso01_vista-lista-contactos.png "Vista List/Tree en Contactos")
 
+![Lista Contactos](../assets/img/01-list/paso02_vista-lista-contactos.png "Vista List/Tree en Contactos")
+
+
 ### 02 Form
 **Dónde**: Clic en un registro desde la lista.  
 **Comprobación**: tipo `form`.  
 **Capturas**:  
 ![Formulario Contacto](../assets/img/02-form/paso01_vista-form-contacto.png "Vista Form")
 
+![Formulario Contacto](../assets/img/02-form/paso02_vista-form-contacto.png "Vista Form")
+
+
 ### 03 Kanban
 **Dónde**: CRM → Oportunidades → icono columnas.  
 **Comprobación**: tipo `kanban`.  
 **Capturas**:  
 ![Kanban CRM](../assets/img/03-kanban/paso01_kanban-crm.png "Kanban CRM")
+
+![Kanban CRM](../assets/img/03-kanban/paso02_kanban-crm.png "Kanban CRM")
+
 
 ### 04 Search
 **Dónde**: Barra superior en listas/kanban.  
@@ -88,17 +97,27 @@
 **Capturas**:  
 ![Calendar](../assets/img/05-calendar/paso01_calendar.png "Calendar")
 
+![Calendar](../assets/img/05-calendar/paso02_calendar.png "Calendar")
+
+
 ### 06 Graph
 **Dónde**: *Reporting* en varios módulos.  
 **Comprobación**: tipo `graph`.  
 **Capturas**:  
 ![Graph](../assets/img/06-graph/paso01_graph.png "Graph")
 
+![Graph](../assets/img/06-graph/paso02_graph.png "Graph")
+
+
 ### 07 Pivot
 **Dónde**: *Reporting*.  
 **Comprobación**: tipo `pivot`.  
 **Capturas**:  
 ![Pivot](../assets/img/07-pivot/paso01_pivot.png "Pivot")
+
+![Pivot](../assets/img/07-pivot/paso02_pivot.png "Pivot")
+
+
 
 ---
 
@@ -110,12 +129,18 @@
 **Capturas**:  
 ![Activity](../assets/img/08-activity/paso01_activity.png "Activity")
 
+![Activity](../assets/img/08-activity/paso02_activity.png "Activity")
+
+
 ### 09 Cohort (Enterprise)
 **Dónde**: CRM/Helpdesk/Suscripciones → *Reporting → Cohort*.  
 **Comprobación**: tipo `cohort`.  
 **Alternativa**: si no está disponible, captura de **documentación oficial** (URL visible) + explicación.  
 **Capturas**:  
 ![Cohort](../assets/img/09-cohort/paso01_cohort.png "Cohort")
+
+![Cohort](../assets/img/09-cohort/paso02_cohort.png "Cohort")
+
 
 ### 10 Gantt (Enterprise)
 **Dónde**: Project/Planning → icono **Gantt**.  
@@ -124,12 +149,18 @@
 **Capturas**:  
 ![Gantt](../assets/img/10-gantt/paso01_gantt.png "Gantt")
 
+![Gantt](../assets/img/10-gantt/paso02_gantt.png "Gantt")
+
+
 ### 11 Grid (Enterprise)
 **Dónde**: Planning / Forecast / Timesheets.  
 **Comprobación**: tipo `grid`.  
 **Alternativa**: documentación oficial (URL visible).  
 **Capturas**:  
 ![Grid](../assets/img/11-grid/paso01_grid.png "Grid")
+
+![Grid](../assets/img/11-grid/paso02_grid.png "Grid")
+
 
 ### 12 Map (Enterprise)
 **Dónde**: Contactos / CRM (con módulo de mapas).  
@@ -138,11 +169,17 @@
 **Capturas**:  
 ![Map](../assets/img/12-map/paso01_map.png "Map")
 
+![Map](../assets/img/12-map/paso02_map.png "Map")
+
+
 ### 13 Hierarchy
 **Dónde**: RRHH → Empleados → Departamentos → **Hierarchy**.  
 **Comprobación**: tipo `hierarchy`.  
 **Capturas**:  
 ![Hierarchy](../assets/img/13-hierarchy/paso01_hierarchy.png "Hierarchy")
+
+![[paso02_hierarchy.png]]
+
 
 ### 14 QWeb (reportes/dashboards)
 **Dónde**: Factura → **Imprimir Factura**, o dashboards.  
@@ -150,12 +187,15 @@
 **Capturas**:  
 ![QWeb Report](../assets/img/14-qweb/paso01_qweb_invoice-report.png "Reporte QWeb")
 
+
+
+
 ---
 
 ## Checklist final
-- [ ] Todas las **vistas cubiertas** (o alternativa con documentación oficial).
-- [ ] **Developer Mode** usado y **tipo de vista verificado** en cada sección.
-- [ ] **Capturas nítidas**, rutas relativas correctas y `alt/title` informativos.
-- [ ] Se indica **cómo llegar** a cada vista desde el menú.
-- [ ] **Bibliografía** con fuentes oficiales / artículos técnicos.
-- [ ] **PDF único** consolidado generado a partir del Markdown.
+- [x] Todas las **vistas cubiertas** (o alternativa con documentación oficial).
+- [x] **Developer Mode** usado y **tipo de vista verificado** en cada sección.
+- [x] **Capturas nítidas**, rutas relativas correctas y `alt/title` informativos.
+- [x] Se indica **cómo llegar** a cada vista desde el menú.
+- [x] **Bibliografía** con fuentes oficiales / artículos técnicos.
+- [x] **PDF único** consolidado generado a partir del Markdown.

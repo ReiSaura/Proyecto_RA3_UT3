@@ -11,10 +11,14 @@
             "id": "1a5f2421b882abbd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "retos/Reto_01_Vistas_Odoo19_NombreAlumno_ApellidosAlumno/docs/00-vistas_odoo19.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "00-vistas_odoo19"
             }
           }
         ]
@@ -40,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -167,27 +171,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "eeb653f30132bae4",
   "lastOpenFiles": [
-    "retos/Reto_01_Vistas_Odoo19_NombreAlumno_ApellidosAlumno/assets/img/08-activity/paso01_activity.png",
-    "retos/Reto_01_Vistas_Odoo19_NombreAlumno_ApellidosAlumno/assets/img/07-pivot/paso01_pivot.png",
-    "retos/Reto_01_Vistas_Odoo19_NombreAlumno_ApellidosAlumno/assets/img/06-graph/paso01_graph.png",
-    "retos/Reto_01_Vistas_Odoo19_NombreAlumno_ApellidosAlumno/assets/img/05-calendar/paso01_calendar.png",
-    "retos/Reto_01_Vistas_Odoo19_NombreAlumno_ApellidosAlumno/assets/img/04-search/paso01_search-filtros.png",
-    "retos/Reto_01_Vistas_Odoo19_NombreAlumno_ApellidosAlumno/assets/img/03-kanban/paso01_kanban-crm.png",
-    "retos/Reto_01_Vistas_Odoo19_NombreAlumno_ApellidosAlumno/assets/img/02-form/paso01_vista-form-contacto.png",
+    "retos/Reto_01_Vistas_Odoo19_NombreAlumno_ApellidosAlumno/assets/img/14-qweb/paso01_qweb_invoice-report.png",
     "retos/Reto_01_Vistas_Odoo19_NombreAlumno_ApellidosAlumno/assets/img/01-list/paso01_vista-lista-contactos.png",
-    "retos/Reto_01_Vistas_Odoo19_NombreAlumno_ApellidosAlumno/assets/img/07-pivot/2025-11-21_19-52.png",
-    "retos/Reto_01_Vistas_Odoo19_NombreAlumno_ApellidosAlumno/assets/img/08-activity/2025-11-21_19-50.png",
-    "retos/Reto_01_Vistas_Odoo19_NombreAlumno_ApellidosAlumno/assets/img/06-graph/2025-11-21_19-48.png"
+    "retos/Reto_01_Vistas_Odoo19_NombreAlumno_ApellidosAlumno/assets/img/02-form/paso01_vista-form-contacto.png",
+    "retos/Reto_01_Vistas_Odoo19_NombreAlumno_ApellidosAlumno/assets/img/03-kanban/paso01_kanban-crm.png",
+    "retos/Reto_01_Vistas_Odoo19_NombreAlumno_ApellidosAlumno/assets/img/05-calendar/paso01_calendar.png",
+    "retos/Reto_01_Vistas_Odoo19_NombreAlumno_ApellidosAlumno/assets/img/06-graph/paso01_graph.png",
+    "retos/Reto_01_Vistas_Odoo19_NombreAlumno_ApellidosAlumno/assets/img/07-pivot/paso01_pivot.png",
+    "retos/Reto_01_Vistas_Odoo19_NombreAlumno_ApellidosAlumno/assets/img/08-activity/paso01_activity.png",
+    "retos/Reto_01_Vistas_Odoo19_NombreAlumno_ApellidosAlumno/assets/img/09-cohort/paso01_cohort.png",
+    "retos/Reto_01_Vistas_Odoo19_NombreAlumno_ApellidosAlumno/assets/img/10-gantt/paso01_gantt.png",
+    "retos/Reto_01_Vistas_Odoo19_NombreAlumno_ApellidosAlumno/assets/img/13-hierarchy/paso02_hierarchy.png"
   ]
 }
